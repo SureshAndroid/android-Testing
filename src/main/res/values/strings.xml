@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing App new</string>
+
+    <string name="he_hello">Hello World</string>
+    <string name="title_activity_webview">Webview</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
